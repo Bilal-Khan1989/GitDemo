@@ -7,6 +7,7 @@ public class RestAssurdTest {
 	public void CricketAutomation()
 	{
 		System.out.println("CricketAutomation");
+		System.out.println("CricketAutomation1");
 	}
 	@Test
 	public void AzanAutomation()

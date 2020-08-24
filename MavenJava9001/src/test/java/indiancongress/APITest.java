@@ -7,6 +7,7 @@ public class APITest {
 	public void Pakistan()
 	{
 		System.out.println("Pakistan");
+		System.out.println("Pakistan1");
 	}
 	@Test
 	public void MobileAutomation()
