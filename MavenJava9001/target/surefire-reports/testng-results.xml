@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-06T13:32:14 EDT" name="Suite" finished-at="2020-07-06T13:32:14 EDT" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2020-07-06T13:32:14 EDT" name="Test" finished-at="2020-07-06T13:32:14 EDT" duration-ms="57">
+      <class name="indiancongress.SeleniumTest">
+        <test-method signature="SiteAutomation()[pri:0, instance:indiancongress.SeleniumTest@6f3b5d16]" started-at="2020-07-06T13:32:14 EDT" name="SiteAutomation" finished-at="2020-07-06T13:32:14 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteAutomation -->
+        <test-method signature="WebAutomation()[pri:0, instance:indiancongress.SeleniumTest@6f3b5d16]" started-at="2020-07-06T13:32:14 EDT" name="WebAutomation" finished-at="2020-07-06T13:32:14 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebAutomation -->
+      </class> <!-- indiancongress.SeleniumTest -->
+      <class name="indiancongress.RestAssurdTest">
+        <test-method signature="AzanAutomation()[pri:0, instance:indiancongress.RestAssurdTest@3b938003]" started-at="2020-07-06T13:32:14 EDT" name="AzanAutomation" finished-at="2020-07-06T13:32:14 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AzanAutomation -->
+        <test-method signature="CricketAutomation()[pri:0, instance:indiancongress.RestAssurdTest@3b938003]" started-at="2020-07-06T13:32:14 EDT" name="CricketAutomation" finished-at="2020-07-06T13:32:14 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CricketAutomation -->
+      </class> <!-- indiancongress.RestAssurdTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
