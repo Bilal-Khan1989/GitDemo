@@ -14,5 +14,9 @@ public class RestAssurdTest {
 	{
 		System.out.println("AzanAutomation");
 	}
+	public void AzanAutomation1()
+	{
+		System.out.println("AzanAutomation5");
+	}
 
 }

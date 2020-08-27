@@ -14,5 +14,9 @@ public class APITest {
 	{
 		System.out.println("MobileAutomation");
 	}
+	public void MobileAutomation2()
+	{
+		System.out.println("MobileAutomationlk");
+	}
 
 }
